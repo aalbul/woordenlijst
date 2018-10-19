@@ -1,5 +1,6 @@
 import Table from 'tty-table';
 import * as R from 'ramda';
+import './csv-to-json';
 
 import readline from 'readline';
 
@@ -84,4 +85,4 @@ const appLoop = async (words) => {
     }
 };
 
-appLoop(data).then(() => process.exit(0));
+// appLoop(data).then(() => process.exit(0));
