@@ -1,0 +1,15 @@
+{
+  "name": "woordenlijst",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "shebang-loader": "^0.0.1",
+    "tty-table": "^2.6.9"
+  },
+  "license": "Apache",
+  "devDependencies": {
+    "webpack": "4.20.2",
+    "webpack-cli": "3.1.2"
+  }
+}
